@@ -40,6 +40,7 @@ textarea{
   background-color: #ffffff;
   color: #000000;
   border-top: 1px dashed #000000;
+  padding-top: 8px;
 }
 
 .past {
@@ -65,7 +66,19 @@ textarea{
   color: white;
 }
 
-.saveBtn i:hover {
+.saveBtn span:hover {
   font-size: 20px;
   transition: all .3s ease-in-out;
+}
+
+/* MEDIA QUERIES */
+@media screen and (max-width: 768px) {
+  .row {
+    margin-top: 10px;
+    height: fit-content;
+  }
+textarea,
+.saveBtn {
+  border-left: none;
+}
 }
