@@ -29,4 +29,3 @@ https://lizariasc.github.io/my-work-day/
 
 ## Mock up of the functioning website
 ![Mock-up]()
-
