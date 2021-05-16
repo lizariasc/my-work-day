@@ -76,9 +76,11 @@ textarea{
   .row {
     margin-top: 10px;
     height: fit-content;
+    margin: 5px;
   }
 textarea,
 .saveBtn {
   border-left: none;
+  border-radius: 15px;
 }
 }
