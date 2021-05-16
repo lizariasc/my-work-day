@@ -28,4 +28,4 @@ https://lizariasc.github.io/my-work-day/
  * Bootstrap
 
 ## Mock up of the functioning website
-![Mock-up]()
+![Mock-up](mockup.gif)
